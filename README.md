@@ -1,6 +1,6 @@
 # questionario
 
-Alunos: Kayki Guilherme e Ryam Vitor
+Alunos: Kayki Guilherme e Ryan Vitor
 
 Questionário de supabase do dia 22 de abril
 
