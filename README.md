@@ -30,7 +30,11 @@ Qual o usuário que mais bebeu água no período?
 Carlos Lima; 12300.
 
 Qual o usuário que bebe menos água no período?
-
+11111111-1111-1111-111111111111 - 12300 - 2050
+22222222-2222-2222-222222222222 - 12300 - 2050
+33333333-3333-3333-333333333333 - 12300 - 2050
+44444444-4444-4444-444444444444 - 12300 - 2050
+55555555-5555-5555-555555555555 - 12300 - 2050
 
 Qual o consumo médio diário por usuário?
 44444444-4444-4444-4444-444444444444  2050.0000000000000000
@@ -38,11 +42,11 @@ Qual o consumo médio diário por usuário?
 22222222-2222-2222-2222-222222222222  2050.0000000000000000
 11111111-1111-1111-1111-111111111111  2050.0000000000000000
 55555555-5555-5555-5555-555555555555  2050.0000000000000000
+
 Qual o consumo médio por ingestão (copo)?
 292.8571428571428571
 
 Quanto cada usuário bebeu por dia?
-
 nome,data,total
 Ana Paula,2026-04-15,2050
 Carlos Lima,2026-04-15,2050
@@ -76,12 +80,10 @@ Maria Souza,2026-04-20,2050
 Pedro Santos,2026-04-20,2050
 
 Qual foi o dia com maior consumo total de água?
-
 data,total
 2026-04-18,10250
 
 Qual foi o dia com menor consumo total?
-
 data,total
 2026-04-18,10250
 
@@ -95,7 +97,6 @@ data,total_registros
 2026-04-15,35
 
 Qual usuário atingiu meta-dia em cada dia?
-
 nome,data,total_ml,meta_ml
 Ana Paula,2026-04-15,2050,2000
 Ana Paula,2026-04-18,2050,2000
@@ -105,12 +106,10 @@ Ana Paula,2026-04-16,2050,2000
 Ana Paula,2026-04-20,2050,2000
 
 Quantos dias cada usuário bateu a meta?
-
 nome,dias_meta_atingida
 Ana Paula,6
 
 Qual a porcentagem da meta obtida por dia pelo usuário?
-
 nome,data,porcentagem_meta
 João Silva,2026-04-19,73.2142857142857143
 Ana Paula,2026-04-15,102.5000000000000000
@@ -144,7 +143,6 @@ Ana Paula,2026-04-20,102.5000000000000000
 Maria Souza,2026-04-20,89.1304347826086957
 
 Qual usuário tem melhor desempenho (mais dias com meta alcançada)?
-
 nome,dias_meta
 Ana Paula,6
 
@@ -157,4 +155,11 @@ hora,total
 18,7500
 10,7500
 8,6000
+
 Qual o intervalo médio entre ingestões por usuário?
+nome,intervalo_medio
+Ana Paula,02:00:00
+Carlos Limas,02:00:00
+João Silva,02:00:00
+Maria Souza,02:00:00
+Pedro Santos,02:00:00
